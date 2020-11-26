@@ -113,10 +113,10 @@ const roll = {
 					return `**Critical!**\n${replyString}`;
 				case data.result === 6:
 					return `**Success!**\n${replyString}`;
-				case data.result >= 4:
+				case data.result >= 5:
 					return `**Partial!**\n${replyString}`;
-				case data.result <= 3:
-					return `**Failure!**\n${replyString}`;
+				case data.result <= 4:
+					return `**Miss!**\n${replyString}`;
 			}
 		}
 	},
