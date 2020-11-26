@@ -1,4 +1,4 @@
-# Blades in the Dicebot
+# Blades in the Dicebot - Fives Mod
 
 [Modding this to make partial successes only on 5 instead of 4-5. Would also like to add a second pool of corruption dice that contribute to successes, but cause problems if two or more 1s or 6s are rolled on them.]
 
